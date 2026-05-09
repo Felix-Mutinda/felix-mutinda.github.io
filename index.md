@@ -3,7 +3,7 @@ layout: default
 title: "Felix Isaiah"
 ---
 
-# Staff ML Platform Architect
+# ML Platform Architect
 Feature Infrastructure · DevSecMLOps · Distributed Systems
 
 I architect production ML infrastructure for regulated industries at enterprise scale—specializing in feature platforms, governance-by-design, and DevSecMLOps patterns that enable velocity without compromising security or observability.
