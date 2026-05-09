@@ -1,4 +1,4 @@
-# Felix Mutinda Isaiah — Portfolio & Architecture Showcase
+# Felix Isaiah - Portfolio & Architecture Showcase
 
 GitHub Pages site hosting public case studies, Architecture Decision Records (ADRs), and systems-level narratives. Serves as the deep-dive anchor between LinkedIn hooks and GitHub proof-of-work.
 
