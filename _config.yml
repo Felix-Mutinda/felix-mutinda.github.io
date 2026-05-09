@@ -1,0 +1,24 @@
+title: "Felix Mutinda Isaiah"
+description: "ML Platform Architect | DevSecMLOps"
+url: "https://felix-mutinda.github.io"
+baseurl: ""
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "showcase"
+    values:
+      layout: "showcase"
+  - scope:
+      path: "adr"
+    values:
+      layout: "showcase"

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.linkedin_post %}
+  <p><a href="{{ page.linkedin_post }}" target="_blank">📖 Read the LinkedIn hook →</a></p>
+  {% endif %}
+
+  <div class="showcase-content">
+    {{ content }}
+  </div>
+
+  {% if page.github_repo %}
+  <hr>
+  <h3>🛠️ Public Proof</h3>
+  <p>Sanitized reference implementation, ADRs, and configuration files:</p>
+  <p><a href="{{ page.github_repo }}" target="_blank">{{ page.github_repo }}</a></p>
+  {% endif %}
+</article>
