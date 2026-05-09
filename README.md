@@ -10,7 +10,7 @@ Built for readability, long-term maintainability, and explicit constraint → de
 
 | Dimension | Specification |
 |-----------|---------------|
-| **Core Identity** | ML Platform Architect | DevSecMLOps |
+| **Core Identity** | ML Platform Architect \| DevSecMLOps |
 | **Visual System** | Primary: `#1A3A52` (Navy/Charcoal) \| Accent: `#2C5AA0` (Professional Blue) \| Background: `#F5F5F5` (Cream/Off-White) |
 | **Design Ethos** | Minimalist, geometric, high-contrast. Zero gradients, shadows, or decorative elements. Negative space as a functional element. |
 | **Tone & Voice** | Precise, evidence-based, constraint-focused. Zero hype. Systems-thinking over tool-chasing. Professional restraint with subtle authenticity. |
